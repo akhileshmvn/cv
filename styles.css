@@ -8,3 +8,6 @@ hr{
     border-color: #A5C9CA;
     background-color: #eAF6F6;
 }
+td{
+    padding-left: 0px;
+}
